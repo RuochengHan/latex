@@ -8,3 +8,8 @@
 \
 \begin{minipage}
 ```
+
+2. Change section style:
+```latex
+\renewcommand \thesection{S\arabic{section}}
+```
